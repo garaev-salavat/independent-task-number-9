@@ -97,5 +97,5 @@
 
 ## Добавление смайликов <a name="item5"></a>
 
-Можем добавить эмодзи :+1: : smile : : see_no_evil : : hear_no_evil : : speak_no_evil :
+Можем добавить эмодзи :+1: :smile: :see_no_evil: :hear_no_evil: :speak_no_evil:
 
